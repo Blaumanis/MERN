@@ -1,0 +1,1 @@
+middlewares are just functions that execute during the request/response cycle
